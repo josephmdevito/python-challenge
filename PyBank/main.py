@@ -56,3 +56,5 @@ with open(analysis,"w") as file:
     file.write(f"Greatest Increase in Profits: {total_months[great_inc_month]} (${(str(great_increase))})")
     file.write("\n")
     file.write(f"Greatest Decrease in Profits: {total_months[great_dec_month]} (${(str(great_decrease))})")
+
+#this code was prepared by Joseph DeVito for the Northwestern Data Science and Visualization Bootcamp. 
