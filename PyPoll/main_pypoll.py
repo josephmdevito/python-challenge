@@ -69,7 +69,7 @@ with open(analysis_PyPoll,"w") as file:
     file.write("\n")
     file.write("-------------------------------------------")
     file.write("\n")
-    file.write(f"Winnter: {winner}")
+    file.write(f"Winner: {winner}")
     file.write("\n")
     file.write("-------------------------------------------")
 
